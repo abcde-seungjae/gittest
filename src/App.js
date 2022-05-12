@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload............
           hotfix!!~~~!!!!!!!!!!!!!!!!!
+          풀리퀘스트 테스트 해야지
         </p>
         <a
           className="App-link"
